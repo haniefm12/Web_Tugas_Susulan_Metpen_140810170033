@@ -645,7 +645,7 @@ Hasil konversi source code latex (.tex) menjadi bentuk file PDF (.pdf)
 
 <iframe src="https://drive.google.com/file/d/1P_jvnmvuKuSBidoqStqHA-Nkte7K7hvT/preview" width="100%" height="700" frameborder="0"></iframe>
 
-Untuk melihat source code , pdf , dan aset-asetnya secara keseluruhan. Anda dapat melihatnya [DISNI][jekyll-gh].
+Untuk melihat source code , pdf , dan aset-asetnya secara keseluruhan. Anda dapat melihatnya [DI SINI][jekyll-gh].
 
 
 [jekyll-gh]:   https://github.com/haniefm12/Tugas-5-Latex

@@ -20,6 +20,6 @@ Judul Skripsi : PERANCANGAN SISTEM MANAJEMEN PENGADAAN DAN PERSEDIAAN BARANG DAL
 <iframe src="https://drive.google.com/file/d/1b8yInUlgHI5R19zeraF6zK3Sn4GLC_n0/preview" width="100%" height="700" frameborder="0"></iframe>
 
 
-Jika anda ingin mengunduh, file tersebut dapat di unduh melalui google drive [DISINI][jekyll-gdrive].
+Jika anda ingin mengunduh, file tersebut dapat di unduh melalui google drive [DI SINI][jekyll-gdrive].
 
 [jekyll-gdrive]: https://drive.google.com/a/mail.unpad.ac.id/uc?authuser=2&id=1b8yInUlgHI5R19zeraF6zK3Sn4GLC_n0&export=download
